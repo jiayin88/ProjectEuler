@@ -1,6 +1,6 @@
 # ProjectMammogram
 
-This project is part of MSc. Mathematics studies in University of Malaya. The goal is to create a pipeline of mammogram analysis to determine the chances of having cancer based on the region of interest using R programming. For more information, please read it here: (insert paper link).
+This project is part of the MSc. (Mathematics) program in the University of Malaya. The goal is to create a pipeline of mammogram analysis to determine the chances of having cancer based on the region of interest using R programming. For more information, please read it here: (insert paper link).
 
 What to expect in this repository:
 1. Images used in this project
