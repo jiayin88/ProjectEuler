@@ -10,12 +10,17 @@ The database used in this project are:
 - CBIS-DDSM
 - mini-MIAS
 
+The moment used in this project are:
+- Generalized pseudo-Zernike moment (gpzm_finalCode.r)
+- Krawtchouk moment (krawt_finalCode.r)
+
 The prediction model used here includes: 
-- naive Bayes
-- logistic regression
-- neural network
-- support vector machine 
-- regression tree
+- naive Bayes (nb.r)
+- logistic regression (logit.r)
+- neural network (nb.r)
+- support vector machine (e1071.r, ksvm.r) 
+- regression tree (nn20_0.5x.r)
+
 
 The overall workflow is as follow:
 
